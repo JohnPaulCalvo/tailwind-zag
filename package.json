@@ -30,10 +30,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/calvo-jp/tailwind-zag.git"
+		"url": "git+https://github.com/JohnPaulCalvo/tailwind-zag.git"
 	},
 	"bugs": {
-		"url": "https://github.com/calvo-jp/tailwind-zag/issues",
+		"url": "https://github.com/JohnPaulCalvo/tailwind-zag/issues",
 		"email": "calvojp92@gmail.com"
 	},
 	"description": "TailwindCSS plugin for zag-powered components",
